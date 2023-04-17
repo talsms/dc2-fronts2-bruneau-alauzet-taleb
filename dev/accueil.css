@@ -84,6 +84,7 @@ nav a:hover {
 .cards .card img{
   width: 350px;
 }
+
 .cards .card .card-header{
   display: flex;
   flex-wrap:wrap;
