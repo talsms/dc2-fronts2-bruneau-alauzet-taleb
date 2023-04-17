@@ -22,4 +22,3 @@ addToCartButton.addEventListener('click', function() {
   // Enregistre le panier dans le stockage local
   localStorage.setItem('cart', JSON.stringify(cart));
 });
->QA ²1²1>a 
